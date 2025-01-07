@@ -1,9 +1,6 @@
 css into php
 
-<?php
-$css = file_get_contents('CSS/main.css');
-echo $css;
-?>
+<?php   $css = file_get_contents('CSS/main.css');   echo $css;   ?>
 
 
 js into php
