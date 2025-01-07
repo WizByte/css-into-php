@@ -1,0 +1,30 @@
+allert =  mostra un messaggio e mette in pausa l'esecuzione dello script finché l'utente non preme il pulsante
+
+promt = viene visualizzato per richiedere conferma prima di consentire l'esecuzione del contenuto Java nel browser
+
+let = è utilizzata per dichiarare variabili legate al blocco entro il quale compare dichiarare una variabile con let limita dunque lo scope a quello specifico blocco
+
+var = è progettata per sostituire un tipo di dato 
+
+const = Le dichiarazioni const non possono essere aggiornate o ri-dichiarate significa che il valore di una variabile dichiarato con const rimane lo stesso 
+
+length = calcola la lunghezza della stringa, cioè il numero di caratteri che compongono la stringa
+
+split= split crea una matrice di sottostringhe dividendo la stringa di input 
+
+slice = consente di estrarre da un oggetto una sua porzione
+
+concatenazione = permette di ottenere una stringa il cui valore è dato dalla  prima stringa seguita dalla seconda string
+
+pop = restituisce l'oggetto in cima alla array e lo rimuove 
+
+push = Inserisce un oggetto in cima alla arry
+
+shift = sposta i bit a destra di quante posizioni ha bisogno
+
+unshift = onsente di aggiungere uno o più elementi all'inizio di un array 
+
+Siti utilizzati per la ricerca:
+-W3school
+-Chatgpt
+-Wiikipedia
